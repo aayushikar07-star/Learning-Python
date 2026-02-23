@@ -1,0 +1,3 @@
+1000,food,went on a trip 
+2000,travel,a short trip in february month
+500,food,This included breakfast,lunch and dinner.
